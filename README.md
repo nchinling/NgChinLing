@@ -3,5 +3,5 @@
 
  ### Assignment 1 - Stock Profile page (HTML)
 
- ![SC Stock Profile](images/wk-artefact.png)
+ ![SC Stock Profile](./images/wk1-artefact.png)
 

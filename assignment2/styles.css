@@ -13,4 +13,59 @@ body {
     padding: 20px;
 }
 
+
 /* Add in your own customisations */
+
+/* header and footer css */
+header {
+
+    background-color: #93d0f4;
+    text-align: center;
+}
+
+footer {
+    background-color: #93d0f4;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* table css */
+table, th, td {
+    border: 1px solid #ddd; 
+}
+  
+table {
+border-collapse: collapse; 
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+
+/* hyperlink css */
+a {
+    color: #0079c1; 
+}
+  
+
+/* additional enhancements */
+.section-about{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.section-table{
+    background-color: rgb(152, 187, 205);
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.section-links{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

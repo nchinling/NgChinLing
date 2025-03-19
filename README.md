@@ -22,3 +22,4 @@
  ![CSS Grid Garden completion](./images/grid-garden-completion.png)
 
 
+ ### Assignment 3 - Javascipt variables, arrays, decision structures

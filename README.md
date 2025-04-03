@@ -21,5 +21,12 @@
 
  ![CSS Grid Garden completion](./images/grid-garden-completion.png)
 
+### Assignment 3 - Javascipt variables, arrays, decision structures
+Arrays and Objects
 
- ### Assignment 3 - Javascipt variables, arrays, decision structures
+### Assignment 4 - JavaScript Loops and Functions
+Creating loops and functions (including arrow functions)
+
+
+### Assignment 5 - Asynchronous Programming and Web APIs
+Writing Promises

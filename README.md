@@ -27,6 +27,11 @@ Arrays and Objects
 ### Assignment 4 - JavaScript Loops and Functions
 Creating loops and functions (including arrow functions)
 
-
 ### Assignment 5 - Asynchronous Programming and Web APIs
 Writing Promises
+
+### Assignment 6 - React
+Props, conditional rendering
+
+
+
